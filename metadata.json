@@ -1,0 +1,6 @@
+{
+  "name": "ACTA",
+  "description": "Assistente de captura, transcrição em tempo real e geração de actas de reuniões estruturadas em português europeu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
