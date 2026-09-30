@@ -42,3 +42,12 @@ The public demo uses fictional data only, contains no keys or real recordings, a
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+
+
+<!-- PUBLICATION-ASSETS:BEGIN -->
+## Application capture
+
+![ACTA instalado em dispositivo Android](docs/images/acta-installed.jpeg)
+<!-- PUBLICATION-ASSETS:END -->
+

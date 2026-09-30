@@ -346,7 +346,7 @@ fun NovoParticipanteDialog(
           value = email,
           onValueChange = { email = it },
           label = { Text("Email Institucional") },
-          placeholder = { Text("teresa.bento@empresa.pt") },
+          placeholder = { Text("teresa@example.test") },
           singleLine = true,
           modifier = Modifier.fillMaxWidth().testTag("input_email_participante")
         )

@@ -49,7 +49,7 @@ class ActaBusinessRulesTest {
       reuniaoId = reuniaoId,
       nome = "Dr. Manuel Santos",
       funcao = "Presidente",
-      email = "manuel@empresa.pt",
+      email = "manuel@example.test",
       consentimentoGravacao = true,
       consentimentoTranscricao = true
     )
@@ -57,7 +57,7 @@ class ActaBusinessRulesTest {
       reuniaoId = reuniaoId,
       nome = "Eng. Rui Silva",
       funcao = "Diretor",
-      email = "rui@empresa.pt",
+      email = "rui@example.test",
       consentimentoGravacao = false, // Não consentiu!
       consentimentoTranscricao = true
     )
